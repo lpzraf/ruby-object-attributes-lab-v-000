@@ -10,7 +10,7 @@ class Dog
 end
 
 
-lassie = Dog.new
-lassie.name = "Lassie"
+campeon = Dog.new
+campeon.name = "Campeon"
  
-puts lassie.name
+puts campeon.name
