@@ -1,8 +1,8 @@
 class Dog 
   
-  def name 
+  def name= 
   end
   
-  def name=
+  def name
   end
 end
