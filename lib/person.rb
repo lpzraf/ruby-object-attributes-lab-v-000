@@ -21,6 +21,6 @@ beyonce = Person.new
 beyonce.name = "Beyonce"
   puts beyonce.name
 
-snoopy = Person.new
-snoopy.job = "Beagle"
-  puts snoopy.job
+singer = Person.new
+singer.job = "Singer"
+  puts singer.job
