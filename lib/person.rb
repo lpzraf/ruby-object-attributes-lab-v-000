@@ -1,14 +1,14 @@
 class Person 
-  def name= (fido_name)
-    @name = fido_name
+  def name= (name)
+    @name = name
   end
   
   def name
     @name
   end
   
-  def job= (breed)
-    @breed = breed
+  def job= (job)
+    @breed = job
   end
   
   def job
