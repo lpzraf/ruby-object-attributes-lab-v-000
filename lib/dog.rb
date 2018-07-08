@@ -9,7 +9,7 @@ class Dog
   end
   
     def  breed= (breed)
-    @breed = fido_name
+    @breed = snoopy.breed
   end
   
   def breed
