@@ -8,7 +8,7 @@ class Dog
     @name
   end
   
-    def  breed= (breed)
+    def  breed= (snoopy.breed)
     @breed = snoopy.breed
   end
   
@@ -20,10 +20,8 @@ end
 
 fido = Dog.new
 fido.name = "Fido"
- 
 puts fido.name
 
 snoopy = Dog.new
 snoopy.breed = "Beagle"
- 
 puts snoopy.breed
